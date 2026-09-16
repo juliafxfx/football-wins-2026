@@ -1,6 +1,8 @@
 name: Update Football Wins
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '17 */6 * * *'
@@ -18,17 +20,14 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-
       - name: Update published scores
         env:
           BIGBALLS_API_KEY: ${{ secrets.BIGBALLS_API_KEY }}
         run: node scripts/update-data.mjs
-
       - name: Publish changed scores
         run: |
           if git diff --quiet -- data.json; then
