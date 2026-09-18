@@ -1,8 +1,31 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-09-18T00:32:05.726Z",
+  "updatedAt": "2026-09-18T06:30:51.908Z",
   "leaderboard": [
+    {
+      "coach": "Chrissy",
+      "nfl": {
+        "team": "Seattle",
+        "wins": 1,
+        "losses": 0,
+        "apiName": "Seattle Seahawks"
+      },
+      "ncaa": {
+        "team": "West Virginia",
+        "wins": 2,
+        "losses": 0,
+        "apiName": "West Virginia Mountaineers"
+      },
+      "wild": {
+        "team": "Pitt",
+        "league": "ncaaf",
+        "wins": 3,
+        "losses": 0,
+        "apiName": "Pittsburgh Panthers"
+      },
+      "totalWins": 6
+    },
     {
       "coach": "Ellie",
       "nfl": {
@@ -27,25 +50,25 @@
       "totalWins": 6
     },
     {
-      "coach": "Chrissy",
+      "coach": "Alexis",
       "nfl": {
-        "team": "Seattle",
-        "wins": 1,
+        "team": "Buffalo",
+        "wins": 2,
         "losses": 0,
-        "apiName": "Seattle Seahawks"
+        "apiName": "Buffalo Bills"
       },
       "ncaa": {
-        "team": "West Virginia",
+        "team": "Alabama",
         "wins": 2,
         "losses": 0,
-        "apiName": "West Virginia Mountaineers"
+        "apiName": "Alabama Crimson Tide"
       },
       "wild": {
-        "team": "Pitt",
+        "team": "Navy",
         "league": "ncaaf",
-        "wins": 2,
-        "losses": 0,
-        "apiName": "Pittsburgh Panthers"
+        "wins": 1,
+        "losses": 1,
+        "apiName": "Navy Midshipmen"
       },
       "totalWins": 5
     },
@@ -96,29 +119,6 @@
       "totalWins": 5
     },
     {
-      "coach": "Alexis",
-      "nfl": {
-        "team": "Buffalo",
-        "wins": 1,
-        "losses": 0,
-        "apiName": "Buffalo Bills"
-      },
-      "ncaa": {
-        "team": "Alabama",
-        "wins": 2,
-        "losses": 0,
-        "apiName": "Alabama Crimson Tide"
-      },
-      "wild": {
-        "team": "Navy",
-        "league": "ncaaf",
-        "wins": 1,
-        "losses": 1,
-        "apiName": "Navy Midshipmen"
-      },
-      "totalWins": 4
-    },
-    {
       "coach": "Andy",
       "nfl": {
         "team": "Houston",
@@ -146,7 +146,7 @@
       "nfl": {
         "team": "Detroit",
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Detroit Lions"
       },
       "ncaa": {
