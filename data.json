@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-09-19T00:31:47.278Z",
+  "updatedAt": "2026-09-19T06:29:34.328Z",
   "leaderboard": [
     {
       "coach": "Chrissy",
@@ -73,6 +73,29 @@
       "totalWins": 5
     },
     {
+      "coach": "Julia",
+      "nfl": {
+        "team": "Jacksonville",
+        "wins": 1,
+        "losses": 0,
+        "apiName": "Jacksonville Jaguars"
+      },
+      "ncaa": {
+        "team": "Texas Tech",
+        "wins": 3,
+        "losses": 0,
+        "apiName": "Texas Tech Red Raiders"
+      },
+      "wild": {
+        "team": "Kentucky",
+        "league": "ncaaf",
+        "wins": 1,
+        "losses": 1,
+        "apiName": "Kentucky Wildcats"
+      },
+      "totalWins": 5
+    },
+    {
       "coach": "Kelly Ellis",
       "nfl": {
         "team": "Kansas City",
@@ -90,7 +113,7 @@
         "team": "Houston Cougars",
         "league": "ncaaf",
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Houston Cougars"
       },
       "totalWins": 5
@@ -165,25 +188,48 @@
       "totalWins": 4
     },
     {
-      "coach": "Julia",
+      "coach": "Joel",
       "nfl": {
-        "team": "Jacksonville",
-        "wins": 1,
-        "losses": 0,
-        "apiName": "Jacksonville Jaguars"
+        "team": "Atlanta",
+        "wins": 0,
+        "losses": 1,
+        "apiName": "Atlanta Falcons"
       },
       "ncaa": {
-        "team": "Texas Tech",
-        "wins": 2,
+        "team": "Miami, FL",
+        "wins": 3,
         "losses": 0,
-        "apiName": "Texas Tech Red Raiders"
+        "apiName": "Miami Hurricanes"
       },
       "wild": {
-        "team": "Kentucky",
+        "team": "Miami, OH",
         "league": "ncaaf",
         "wins": 1,
         "losses": 1,
-        "apiName": "Kentucky Wildcats"
+        "apiName": "Miami (OH) RedHawks"
+      },
+      "totalWins": 4
+    },
+    {
+      "coach": "Kat",
+      "nfl": {
+        "team": "LA Chargers",
+        "wins": 0,
+        "losses": 1,
+        "apiName": "Los Angeles Chargers"
+      },
+      "ncaa": {
+        "team": "Oregon",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "Oregon Ducks"
+      },
+      "wild": {
+        "team": "Texas A&M",
+        "league": "ncaaf",
+        "wins": 2,
+        "losses": 0,
+        "apiName": "Texas A&M Aggies"
       },
       "totalWins": 4
     },
@@ -322,52 +368,6 @@
         "wins": 2,
         "losses": 0,
         "apiName": "South Carolina Gamecocks"
-      },
-      "totalWins": 3
-    },
-    {
-      "coach": "Joel",
-      "nfl": {
-        "team": "Atlanta",
-        "wins": 0,
-        "losses": 1,
-        "apiName": "Atlanta Falcons"
-      },
-      "ncaa": {
-        "team": "Miami, FL",
-        "wins": 2,
-        "losses": 0,
-        "apiName": "Miami Hurricanes"
-      },
-      "wild": {
-        "team": "Miami, OH",
-        "league": "ncaaf",
-        "wins": 1,
-        "losses": 1,
-        "apiName": "Miami (OH) RedHawks"
-      },
-      "totalWins": 3
-    },
-    {
-      "coach": "Kat",
-      "nfl": {
-        "team": "LA Chargers",
-        "wins": 0,
-        "losses": 1,
-        "apiName": "Los Angeles Chargers"
-      },
-      "ncaa": {
-        "team": "Oregon",
-        "wins": 1,
-        "losses": 1,
-        "apiName": "Oregon Ducks"
-      },
-      "wild": {
-        "team": "Texas A&M",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 0,
-        "apiName": "Texas A&M Aggies"
       },
       "totalWins": 3
     },
