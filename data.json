@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-09-21T00:32:53.564Z",
+  "updatedAt": "2026-09-21T06:33:21.572Z",
   "leaderboard": [
     {
       "coach": "Ellie",
@@ -48,6 +48,29 @@
         "apiName": "Pittsburgh Panthers"
       },
       "totalWins": 8
+    },
+    {
+      "coach": "Kelly Ellis",
+      "nfl": {
+        "team": "Kansas City",
+        "wins": 2,
+        "losses": 0,
+        "apiName": "Kansas City Chiefs"
+      },
+      "ncaa": {
+        "team": "Indiana",
+        "wins": 3,
+        "losses": 0,
+        "apiName": "Indiana Hoosiers"
+      },
+      "wild": {
+        "team": "Houston Cougars",
+        "league": "ncaaf",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "Houston Cougars"
+      },
+      "totalWins": 7
     },
     {
       "coach": "Kennedy",
@@ -184,29 +207,6 @@
         "wins": 2,
         "losses": 1,
         "apiName": "Kentucky Wildcats"
-      },
-      "totalWins": 6
-    },
-    {
-      "coach": "Kelly Ellis",
-      "nfl": {
-        "team": "Kansas City",
-        "wins": 1,
-        "losses": 0,
-        "apiName": "Kansas City Chiefs"
-      },
-      "ncaa": {
-        "team": "Indiana",
-        "wins": 3,
-        "losses": 0,
-        "apiName": "Indiana Hoosiers"
-      },
-      "wild": {
-        "team": "Houston Cougars",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "Houston Cougars"
       },
       "totalWins": 6
     },
@@ -435,7 +435,7 @@
         "team": "Indianapolis",
         "league": "nfl",
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Indianapolis Colts"
       },
       "totalWins": 4
