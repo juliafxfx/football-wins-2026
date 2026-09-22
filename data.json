@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-09-22T00:31:47.381Z",
+  "updatedAt": "2026-09-22T06:31:02.310Z",
   "leaderboard": [
     {
       "coach": "Ellie",
@@ -303,6 +303,29 @@
       "totalWins": 5
     },
     {
+      "coach": "Clcely",
+      "nfl": {
+        "team": "LA Rams",
+        "wins": 1,
+        "losses": 1,
+        "apiName": "Los Angeles Rams"
+      },
+      "ncaa": {
+        "team": "Clemson",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "Clemson Tigers"
+      },
+      "wild": {
+        "team": "South Carolina",
+        "league": "ncaaf",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "South Carolina Gamecocks"
+      },
+      "totalWins": 5
+    },
+    {
       "coach": "Kelly Hanik",
       "nfl": {
         "team": "Chicago",
@@ -324,29 +347,6 @@
         "apiName": "Louisville Cardinals"
       },
       "totalWins": 5
-    },
-    {
-      "coach": "Clcely",
-      "nfl": {
-        "team": "LA Rams",
-        "wins": 0,
-        "losses": 1,
-        "apiName": "Los Angeles Rams"
-      },
-      "ncaa": {
-        "team": "Clemson",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "Clemson Tigers"
-      },
-      "wild": {
-        "team": "South Carolina",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "South Carolina Gamecocks"
-      },
-      "totalWins": 4
     },
     {
       "coach": "Joel",
