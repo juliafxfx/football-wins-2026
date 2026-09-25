@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-09-25T00:33:50.527Z",
+  "updatedAt": "2026-09-25T06:31:49.640Z",
   "leaderboard": [
     {
       "coach": "Ellie",
@@ -326,6 +326,29 @@
       "totalWins": 5
     },
     {
+      "coach": "Joel",
+      "nfl": {
+        "team": "Atlanta",
+        "wins": 1,
+        "losses": 2,
+        "apiName": "Atlanta Falcons"
+      },
+      "ncaa": {
+        "team": "Miami, FL",
+        "wins": 3,
+        "losses": 0,
+        "apiName": "Miami Hurricanes"
+      },
+      "wild": {
+        "team": "Miami, OH",
+        "league": "ncaaf",
+        "wins": 1,
+        "losses": 2,
+        "apiName": "Miami (OH) RedHawks"
+      },
+      "totalWins": 5
+    },
+    {
       "coach": "Kelly Hanik",
       "nfl": {
         "team": "Chicago",
@@ -347,29 +370,6 @@
         "apiName": "Louisville Cardinals"
       },
       "totalWins": 5
-    },
-    {
-      "coach": "Joel",
-      "nfl": {
-        "team": "Atlanta",
-        "wins": 0,
-        "losses": 2,
-        "apiName": "Atlanta Falcons"
-      },
-      "ncaa": {
-        "team": "Miami, FL",
-        "wins": 3,
-        "losses": 0,
-        "apiName": "Miami Hurricanes"
-      },
-      "wild": {
-        "team": "Miami, OH",
-        "league": "ncaaf",
-        "wins": 1,
-        "losses": 2,
-        "apiName": "Miami (OH) RedHawks"
-      },
-      "totalWins": 4
     },
     {
       "coach": "Kat",
@@ -445,7 +445,7 @@
       "nfl": {
         "team": "Green Bay",
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Green Bay Packers"
       },
       "ncaa": {
