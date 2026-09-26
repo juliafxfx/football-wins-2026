@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-09-26T00:31:44.848Z",
+  "updatedAt": "2026-09-26T06:30:23.056Z",
   "leaderboard": [
     {
       "coach": "Ellie",
@@ -59,7 +59,7 @@
       },
       "ncaa": {
         "team": "Indiana",
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "apiName": "Indiana Hoosiers"
       },
@@ -70,7 +70,7 @@
         "losses": 1,
         "apiName": "Houston Cougars"
       },
-      "totalWins": 7
+      "totalWins": 8
     },
     {
       "coach": "Kennedy",
@@ -136,7 +136,7 @@
         "team": "Navy",
         "league": "ncaaf",
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Navy Midshipmen"
       },
       "totalWins": 6
@@ -184,6 +184,29 @@
         "wins": 2,
         "losses": 0,
         "apiName": "Minnesota Vikings"
+      },
+      "totalWins": 6
+    },
+    {
+      "coach": "Clcely",
+      "nfl": {
+        "team": "LA Rams",
+        "wins": 1,
+        "losses": 1,
+        "apiName": "Los Angeles Rams"
+      },
+      "ncaa": {
+        "team": "Clemson",
+        "wins": 3,
+        "losses": 1,
+        "apiName": "Clemson Tigers"
+      },
+      "wild": {
+        "team": "South Carolina",
+        "league": "ncaaf",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "South Carolina Gamecocks"
       },
       "totalWins": 6
     },
@@ -299,29 +322,6 @@
         "wins": 1,
         "losses": 2,
         "apiName": "Washington State Cougars"
-      },
-      "totalWins": 5
-    },
-    {
-      "coach": "Clcely",
-      "nfl": {
-        "team": "LA Rams",
-        "wins": 1,
-        "losses": 1,
-        "apiName": "Los Angeles Rams"
-      },
-      "ncaa": {
-        "team": "Clemson",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "Clemson Tigers"
-      },
-      "wild": {
-        "team": "South Carolina",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "South Carolina Gamecocks"
       },
       "totalWins": 5
     },
