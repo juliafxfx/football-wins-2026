@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-09-28T00:35:09.051Z",
+  "updatedAt": "2026-09-28T06:35:17.700Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -142,6 +142,29 @@
       "totalWins": 9
     },
     {
+      "coach": "Marian",
+      "nfl": {
+        "team": "Denver",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "Denver Broncos"
+      },
+      "ncaa": {
+        "team": "JMU",
+        "wins": 4,
+        "losses": 0,
+        "apiName": "James Madison Dukes"
+      },
+      "wild": {
+        "team": "Auburn",
+        "league": "ncaaf",
+        "wins": 3,
+        "losses": 1,
+        "apiName": "Auburn Tigers"
+      },
+      "totalWins": 9
+    },
+    {
       "coach": "Alexis",
       "nfl": {
         "team": "Buffalo",
@@ -161,29 +184,6 @@
         "wins": 1,
         "losses": 2,
         "apiName": "Navy Midshipmen"
-      },
-      "totalWins": 8
-    },
-    {
-      "coach": "Marian",
-      "nfl": {
-        "team": "Denver",
-        "wins": 1,
-        "losses": 1,
-        "apiName": "Denver Broncos"
-      },
-      "ncaa": {
-        "team": "JMU",
-        "wins": 4,
-        "losses": 0,
-        "apiName": "James Madison Dukes"
-      },
-      "wild": {
-        "team": "Auburn",
-        "league": "ncaaf",
-        "wins": 3,
-        "losses": 1,
-        "apiName": "Auburn Tigers"
       },
       "totalWins": 8
     },
@@ -353,7 +353,7 @@
       "nfl": {
         "team": "LA Rams",
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Los Angeles Rams"
       },
       "ncaa": {
