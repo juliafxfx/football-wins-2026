@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-09-29T00:33:56.459Z",
+  "updatedAt": "2026-09-29T06:33:25.467Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -257,6 +257,29 @@
       "totalWins": 7
     },
     {
+      "coach": "Kelly Hanik",
+      "nfl": {
+        "team": "Chicago",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "Chicago Bears"
+      },
+      "ncaa": {
+        "team": "SMU",
+        "wins": 3,
+        "losses": 1,
+        "apiName": "SMU Mustangs"
+      },
+      "wild": {
+        "team": "Louisville",
+        "league": "ncaaf",
+        "wins": 2,
+        "losses": 2,
+        "apiName": "Louisville Cardinals"
+      },
+      "totalWins": 7
+    },
+    {
       "coach": "Montse",
       "nfl": {
         "team": "New England",
@@ -307,7 +330,7 @@
       "nfl": {
         "team": "Philadelphia",
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Philadelphia Eagles"
       },
       "ncaa": {
@@ -368,29 +391,6 @@
         "wins": 2,
         "losses": 2,
         "apiName": "South Carolina Gamecocks"
-      },
-      "totalWins": 6
-    },
-    {
-      "coach": "Kelly Hanik",
-      "nfl": {
-        "team": "Chicago",
-        "wins": 1,
-        "losses": 1,
-        "apiName": "Chicago Bears"
-      },
-      "ncaa": {
-        "team": "SMU",
-        "wins": 3,
-        "losses": 1,
-        "apiName": "SMU Mustangs"
-      },
-      "wild": {
-        "team": "Louisville",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 2,
-        "apiName": "Louisville Cardinals"
       },
       "totalWins": 6
     },
