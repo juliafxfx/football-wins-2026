@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-02T00:35:31.553Z",
+  "updatedAt": "2026-10-02T06:33:53.431Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -23,6 +23,29 @@
         "wins": 3,
         "losses": 1,
         "apiName": "Houston Cougars"
+      },
+      "totalWins": 10
+    },
+    {
+      "coach": "Kennedy",
+      "nfl": {
+        "team": "Cleveland",
+        "wins": 3,
+        "losses": 1,
+        "apiName": "Cleveland Browns"
+      },
+      "ncaa": {
+        "team": "Texas",
+        "wins": 4,
+        "losses": 0,
+        "apiName": "Texas Longhorns"
+      },
+      "wild": {
+        "team": "Ole Miss",
+        "league": "ncaaf",
+        "wins": 3,
+        "losses": 1,
+        "apiName": "Ole Miss Rebels"
       },
       "totalWins": 10
     },
@@ -115,29 +138,6 @@
         "wins": 3,
         "losses": 1,
         "apiName": "Kentucky Wildcats"
-      },
-      "totalWins": 9
-    },
-    {
-      "coach": "Kennedy",
-      "nfl": {
-        "team": "Cleveland",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "Cleveland Browns"
-      },
-      "ncaa": {
-        "team": "Texas",
-        "wins": 4,
-        "losses": 0,
-        "apiName": "Texas Longhorns"
-      },
-      "wild": {
-        "team": "Ole Miss",
-        "league": "ncaaf",
-        "wins": 3,
-        "losses": 1,
-        "apiName": "Ole Miss Rebels"
       },
       "totalWins": 9
     },
@@ -307,7 +307,7 @@
       "nfl": {
         "team": "Pittsburgh",
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Pittsburgh Steelers"
       },
       "ncaa": {
