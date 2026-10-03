@@ -1,8 +1,31 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-03T00:33:40.999Z",
+  "updatedAt": "2026-10-03T06:34:40.969Z",
   "leaderboard": [
+    {
+      "coach": "Chrissy",
+      "nfl": {
+        "team": "Seattle",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "Seattle Seahawks"
+      },
+      "ncaa": {
+        "team": "West Virginia",
+        "wins": 3,
+        "losses": 1,
+        "apiName": "West Virginia Mountaineers"
+      },
+      "wild": {
+        "team": "Pitt",
+        "league": "ncaaf",
+        "wins": 5,
+        "losses": 0,
+        "apiName": "Pittsburgh Panthers"
+      },
+      "totalWins": 10
+    },
     {
       "coach": "Kelly Ellis",
       "nfl": {
@@ -50,29 +73,6 @@
       "totalWins": 10
     },
     {
-      "coach": "Chrissy",
-      "nfl": {
-        "team": "Seattle",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "Seattle Seahawks"
-      },
-      "ncaa": {
-        "team": "West Virginia",
-        "wins": 3,
-        "losses": 1,
-        "apiName": "West Virginia Mountaineers"
-      },
-      "wild": {
-        "team": "Pitt",
-        "league": "ncaaf",
-        "wins": 4,
-        "losses": 0,
-        "apiName": "Pittsburgh Panthers"
-      },
-      "totalWins": 9
-    },
-    {
       "coach": "Chuck",
       "nfl": {
         "team": "Detroit",
@@ -106,7 +106,7 @@
       "ncaa": {
         "team": "Penn State",
         "wins": 3,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Penn State Nittany Lions"
       },
       "wild": {
