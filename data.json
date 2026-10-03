@@ -1,31 +1,8 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-03T15:05:55.544Z",
+  "updatedAt": "2026-10-03T22:22:17.641Z",
   "leaderboard": [
-    {
-      "coach": "Chrissy",
-      "nfl": {
-        "team": "Seattle",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "Seattle Seahawks"
-      },
-      "ncaa": {
-        "team": "West Virginia",
-        "wins": 3,
-        "losses": 1,
-        "apiName": "West Virginia Mountaineers"
-      },
-      "wild": {
-        "team": "Pitt",
-        "league": "ncaaf",
-        "wins": 5,
-        "losses": 0,
-        "apiName": "Pittsburgh Panthers"
-      },
-      "totalWins": 10
-    },
     {
       "coach": "Kelly Ellis",
       "nfl": {
@@ -43,9 +20,32 @@
       "wild": {
         "team": "Houston Cougars",
         "league": "ncaaf",
-        "wins": 3,
+        "wins": 4,
         "losses": 1,
         "apiName": "Houston Cougars"
+      },
+      "totalWins": 11
+    },
+    {
+      "coach": "Chrissy",
+      "nfl": {
+        "team": "Seattle",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "Seattle Seahawks"
+      },
+      "ncaa": {
+        "team": "West Virginia",
+        "wins": 3,
+        "losses": 2,
+        "apiName": "West Virginia Mountaineers"
+      },
+      "wild": {
+        "team": "Pitt",
+        "league": "ncaaf",
+        "wins": 5,
+        "losses": 0,
+        "apiName": "Pittsburgh Panthers"
       },
       "totalWins": 10
     },
@@ -71,6 +71,29 @@
         "apiName": "Ole Miss Rebels"
       },
       "totalWins": 10
+    },
+    {
+      "coach": "Alexis",
+      "nfl": {
+        "team": "Buffalo",
+        "wins": 3,
+        "losses": 0,
+        "apiName": "Buffalo Bills"
+      },
+      "ncaa": {
+        "team": "Alabama",
+        "wins": 5,
+        "losses": 0,
+        "apiName": "Alabama Crimson Tide"
+      },
+      "wild": {
+        "team": "Navy",
+        "league": "ncaaf",
+        "wins": 1,
+        "losses": 3,
+        "apiName": "Navy Midshipmen"
+      },
+      "totalWins": 9
     },
     {
       "coach": "Chuck",
@@ -165,25 +188,71 @@
       "totalWins": 9
     },
     {
-      "coach": "Alexis",
+      "coach": "Kelly Hanik",
       "nfl": {
-        "team": "Buffalo",
-        "wins": 3,
-        "losses": 0,
-        "apiName": "Buffalo Bills"
+        "team": "Chicago",
+        "wins": 2,
+        "losses": 1,
+        "apiName": "Chicago Bears"
       },
       "ncaa": {
-        "team": "Alabama",
+        "team": "SMU",
         "wins": 4,
-        "losses": 0,
-        "apiName": "Alabama Crimson Tide"
+        "losses": 1,
+        "apiName": "SMU Mustangs"
       },
       "wild": {
-        "team": "Navy",
+        "team": "Louisville",
         "league": "ncaaf",
+        "wins": 2,
+        "losses": 2,
+        "apiName": "Louisville Cardinals"
+      },
+      "totalWins": 8
+    },
+    {
+      "coach": "Montse",
+      "nfl": {
+        "team": "New England",
         "wins": 1,
         "losses": 2,
-        "apiName": "Navy Midshipmen"
+        "apiName": "New England Patriots"
+      },
+      "ncaa": {
+        "team": "Georgia",
+        "wins": 5,
+        "losses": 0,
+        "apiName": "Georgia Bulldogs"
+      },
+      "wild": {
+        "team": "Maryland",
+        "league": "ncaaf",
+        "wins": 2,
+        "losses": 2,
+        "apiName": "Maryland Terrapins"
+      },
+      "totalWins": 8
+    },
+    {
+      "coach": "Ruthie",
+      "nfl": {
+        "team": "Pittsburgh",
+        "wins": 2,
+        "losses": 2,
+        "apiName": "Pittsburgh Steelers"
+      },
+      "ncaa": {
+        "team": "Notre Dame",
+        "wins": 5,
+        "losses": 0,
+        "apiName": "Notre Dame Fighting Irish"
+      },
+      "wild": {
+        "team": "Indianapolis",
+        "league": "nfl",
+        "wins": 1,
+        "losses": 2,
+        "apiName": "Indianapolis Colts"
       },
       "totalWins": 8
     },
@@ -198,7 +267,7 @@
       "ncaa": {
         "team": "Michigan",
         "wins": 3,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Michigan Wolverines"
       },
       "wild": {
@@ -253,75 +322,6 @@
         "wins": 2,
         "losses": 2,
         "apiName": "Miami (OH) RedHawks"
-      },
-      "totalWins": 7
-    },
-    {
-      "coach": "Kelly Hanik",
-      "nfl": {
-        "team": "Chicago",
-        "wins": 2,
-        "losses": 1,
-        "apiName": "Chicago Bears"
-      },
-      "ncaa": {
-        "team": "SMU",
-        "wins": 3,
-        "losses": 1,
-        "apiName": "SMU Mustangs"
-      },
-      "wild": {
-        "team": "Louisville",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 2,
-        "apiName": "Louisville Cardinals"
-      },
-      "totalWins": 7
-    },
-    {
-      "coach": "Montse",
-      "nfl": {
-        "team": "New England",
-        "wins": 1,
-        "losses": 2,
-        "apiName": "New England Patriots"
-      },
-      "ncaa": {
-        "team": "Georgia",
-        "wins": 4,
-        "losses": 0,
-        "apiName": "Georgia Bulldogs"
-      },
-      "wild": {
-        "team": "Maryland",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 2,
-        "apiName": "Maryland Terrapins"
-      },
-      "totalWins": 7
-    },
-    {
-      "coach": "Ruthie",
-      "nfl": {
-        "team": "Pittsburgh",
-        "wins": 2,
-        "losses": 2,
-        "apiName": "Pittsburgh Steelers"
-      },
-      "ncaa": {
-        "team": "Notre Dame",
-        "wins": 4,
-        "losses": 0,
-        "apiName": "Notre Dame Fighting Irish"
-      },
-      "wild": {
-        "team": "Indianapolis",
-        "league": "nfl",
-        "wins": 1,
-        "losses": 2,
-        "apiName": "Indianapolis Colts"
       },
       "totalWins": 7
     },
