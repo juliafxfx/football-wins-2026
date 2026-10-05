@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-05T00:38:19.038Z",
+  "updatedAt": "2026-10-05T06:39:52.319Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -77,7 +77,7 @@
       "nfl": {
         "team": "Detroit",
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Detroit Lions"
       },
       "ncaa": {
