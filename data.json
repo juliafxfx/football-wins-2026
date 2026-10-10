@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-10T00:39:59.040Z",
+  "updatedAt": "2026-10-10T06:33:35.502Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -119,6 +119,29 @@
       "totalWins": 10
     },
     {
+      "coach": "Kelly Hanik",
+      "nfl": {
+        "team": "Chicago",
+        "wins": 3,
+        "losses": 1,
+        "apiName": "Chicago Bears"
+      },
+      "ncaa": {
+        "team": "SMU",
+        "wins": 4,
+        "losses": 1,
+        "apiName": "SMU Mustangs"
+      },
+      "wild": {
+        "team": "Louisville",
+        "league": "ncaaf",
+        "wins": 3,
+        "losses": 3,
+        "apiName": "Louisville Cardinals"
+      },
+      "totalWins": 10
+    },
+    {
       "coach": "Kennedy",
       "nfl": {
         "team": "Cleveland",
@@ -205,7 +228,7 @@
         "team": "Washington State",
         "league": "ncaaf",
         "wins": 1,
-        "losses": 4,
+        "losses": 5,
         "apiName": "Washington State Cougars"
       },
       "totalWins": 9
@@ -230,29 +253,6 @@
         "wins": 2,
         "losses": 3,
         "apiName": "Miami (OH) RedHawks"
-      },
-      "totalWins": 9
-    },
-    {
-      "coach": "Kelly Hanik",
-      "nfl": {
-        "team": "Chicago",
-        "wins": 3,
-        "losses": 1,
-        "apiName": "Chicago Bears"
-      },
-      "ncaa": {
-        "team": "SMU",
-        "wins": 4,
-        "losses": 1,
-        "apiName": "SMU Mustangs"
-      },
-      "wild": {
-        "team": "Louisville",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 3,
-        "apiName": "Louisville Cardinals"
       },
       "totalWins": 9
     },
@@ -320,10 +320,33 @@
         "team": "Washington Huskies",
         "league": "ncaaf",
         "wins": 3,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Washington Huskies"
       },
       "totalWins": 9
+    },
+    {
+      "coach": "Andy",
+      "nfl": {
+        "team": "Houston",
+        "wins": 0,
+        "losses": 4,
+        "apiName": "Houston Texans"
+      },
+      "ncaa": {
+        "team": "BYU",
+        "wins": 5,
+        "losses": 0,
+        "apiName": "BYU Cougars"
+      },
+      "wild": {
+        "team": "Kansas State",
+        "league": "ncaaf",
+        "wins": 3,
+        "losses": 1,
+        "apiName": "Kansas State Wildcats"
+      },
+      "totalWins": 8
     },
     {
       "coach": "Terry",
@@ -347,29 +370,6 @@
         "apiName": "Boise State Broncos"
       },
       "totalWins": 8
-    },
-    {
-      "coach": "Andy",
-      "nfl": {
-        "team": "Houston",
-        "wins": 0,
-        "losses": 4,
-        "apiName": "Houston Texans"
-      },
-      "ncaa": {
-        "team": "BYU",
-        "wins": 4,
-        "losses": 0,
-        "apiName": "BYU Cougars"
-      },
-      "wild": {
-        "team": "Kansas State",
-        "league": "ncaaf",
-        "wins": 3,
-        "losses": 1,
-        "apiName": "Kansas State Wildcats"
-      },
-      "totalWins": 7
     },
     {
       "coach": "Clcely",
