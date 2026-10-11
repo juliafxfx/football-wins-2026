@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-11T12:33:56.931Z",
+  "updatedAt": "2026-10-11T18:31:18.328Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -30,7 +30,7 @@
       "coach": "Julia",
       "nfl": {
         "team": "Jacksonville",
-        "wins": 3,
+        "wins": 4,
         "losses": 1,
         "apiName": "Jacksonville Jaguars"
       },
@@ -47,7 +47,7 @@
         "losses": 1,
         "apiName": "Kentucky Wildcats"
       },
-      "totalWins": 13
+      "totalWins": 14
     },
     {
       "coach": "Chrissy",
@@ -284,7 +284,7 @@
       "nfl": {
         "team": "Philadelphia",
         "wins": 2,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Philadelphia Eagles"
       },
       "ncaa": {
