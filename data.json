@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-16T00:50:21.313Z",
+  "updatedAt": "2026-10-16T06:51:53.653Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -73,6 +73,29 @@
       "totalWins": 13
     },
     {
+      "coach": "Marian",
+      "nfl": {
+        "team": "Denver",
+        "wins": 4,
+        "losses": 2,
+        "apiName": "Denver Broncos"
+      },
+      "ncaa": {
+        "team": "JMU",
+        "wins": 6,
+        "losses": 0,
+        "apiName": "James Madison Dukes"
+      },
+      "wild": {
+        "team": "Auburn",
+        "league": "ncaaf",
+        "wins": 3,
+        "losses": 2,
+        "apiName": "Auburn Tigers"
+      },
+      "totalWins": 13
+    },
+    {
       "coach": "Ellie",
       "nfl": {
         "team": "Cincinnati",
@@ -92,29 +115,6 @@
         "wins": 6,
         "losses": 1,
         "apiName": "USC Trojans"
-      },
-      "totalWins": 12
-    },
-    {
-      "coach": "Marian",
-      "nfl": {
-        "team": "Denver",
-        "wins": 3,
-        "losses": 2,
-        "apiName": "Denver Broncos"
-      },
-      "ncaa": {
-        "team": "JMU",
-        "wins": 6,
-        "losses": 0,
-        "apiName": "James Madison Dukes"
-      },
-      "wild": {
-        "team": "Auburn",
-        "league": "ncaaf",
-        "wins": 3,
-        "losses": 2,
-        "apiName": "Auburn Tigers"
       },
       "totalWins": 12
     },
@@ -146,7 +146,7 @@
       "nfl": {
         "team": "Seattle",
         "wins": 3,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Seattle Seahawks"
       },
       "ncaa": {
