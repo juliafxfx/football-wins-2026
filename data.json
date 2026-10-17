@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-16T18:46:27.760Z",
+  "updatedAt": "2026-10-17T04:23:17.694Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -234,6 +234,29 @@
       "totalWins": 11
     },
     {
+      "coach": "SophRice",
+      "nfl": {
+        "team": "Baltimore",
+        "wins": 4,
+        "losses": 1,
+        "apiName": "Baltimore Ravens"
+      },
+      "ncaa": {
+        "team": "Michigan",
+        "wins": 3,
+        "losses": 2,
+        "apiName": "Michigan Wolverines"
+      },
+      "wild": {
+        "team": "Washington Huskies",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 3,
+        "apiName": "Washington Huskies"
+      },
+      "totalWins": 11
+    },
+    {
       "coach": "Christy",
       "nfl": {
         "team": "San Francisco",
@@ -299,29 +322,6 @@
         "wins": 3,
         "losses": 3,
         "apiName": "Louisville Cardinals"
-      },
-      "totalWins": 10
-    },
-    {
-      "coach": "SophRice",
-      "nfl": {
-        "team": "Baltimore",
-        "wins": 4,
-        "losses": 1,
-        "apiName": "Baltimore Ravens"
-      },
-      "ncaa": {
-        "team": "Michigan",
-        "wins": 3,
-        "losses": 2,
-        "apiName": "Michigan Wolverines"
-      },
-      "wild": {
-        "team": "Washington Huskies",
-        "league": "ncaaf",
-        "wins": 3,
-        "losses": 3,
-        "apiName": "Washington Huskies"
       },
       "totalWins": 10
     },
