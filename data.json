@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-18T04:30:53.812Z",
+  "updatedAt": "2026-10-18T11:02:24.388Z",
   "leaderboard": [
     {
       "coach": "Julia",
@@ -21,7 +21,7 @@
         "team": "Kentucky",
         "league": "ncaaf",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Kentucky Wildcats"
       },
       "totalWins": 16
@@ -37,14 +37,14 @@
       "ncaa": {
         "team": "Indiana",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Indiana Hoosiers"
       },
       "wild": {
         "team": "Houston Cougars",
         "league": "ncaaf",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Houston Cougars"
       },
       "totalWins": 16
@@ -67,7 +67,7 @@
         "team": "Auburn",
         "league": "ncaaf",
         "wins": 4,
-        "losses": 0,
+        "losses": 2,
         "apiName": "Auburn Tigers"
       },
       "totalWins": 15
@@ -82,7 +82,7 @@
       },
       "ncaa": {
         "team": "Utah",
-        "wins": 5,
+        "wins": 6,
         "losses": 0,
         "apiName": "Utah Utes"
       },
@@ -93,7 +93,7 @@
         "losses": 0,
         "apiName": "Minnesota Vikings"
       },
-      "totalWins": 13
+      "totalWins": 14
     },
     {
       "coach": "Chrissy",
@@ -106,14 +106,14 @@
       "ncaa": {
         "team": "West Virginia",
         "wins": 4,
-        "losses": 0,
+        "losses": 3,
         "apiName": "West Virginia Mountaineers"
       },
       "wild": {
         "team": "Pitt",
         "league": "ncaaf",
         "wins": 5,
-        "losses": 0,
+        "losses": 2,
         "apiName": "Pittsburgh Panthers"
       },
       "totalWins": 12
@@ -129,14 +129,14 @@
       "ncaa": {
         "team": "Penn State",
         "wins": 3,
-        "losses": 0,
+        "losses": 4,
         "apiName": "Penn State Nittany Lions"
       },
       "wild": {
         "team": "USC Trojans",
         "league": "ncaaf",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "apiName": "USC Trojans"
       },
       "totalWins": 12
@@ -159,7 +159,7 @@
         "team": "Miami, OH",
         "league": "ncaaf",
         "wins": 4,
-        "losses": 0,
+        "losses": 3,
         "apiName": "Miami (OH) RedHawks"
       },
       "totalWins": 12
@@ -175,14 +175,14 @@
       "ncaa": {
         "team": "SMU",
         "wins": 5,
-        "losses": 0,
+        "losses": 1,
         "apiName": "SMU Mustangs"
       },
       "wild": {
         "team": "Louisville",
         "league": "ncaaf",
         "wins": 4,
-        "losses": 0,
+        "losses": 3,
         "apiName": "Louisville Cardinals"
       },
       "totalWins": 12
@@ -198,14 +198,14 @@
       "ncaa": {
         "team": "Texas",
         "wins": 4,
-        "losses": 0,
+        "losses": 2,
         "apiName": "Texas Longhorns"
       },
       "wild": {
         "team": "Ole Miss",
         "league": "ncaaf",
         "wins": 5,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Ole Miss Rebels"
       },
       "totalWins": 12
@@ -221,14 +221,14 @@
       "ncaa": {
         "team": "Michigan",
         "wins": 4,
-        "losses": 0,
+        "losses": 2,
         "apiName": "Michigan Wolverines"
       },
       "wild": {
         "team": "Washington Huskies",
         "league": "ncaaf",
         "wins": 4,
-        "losses": 0,
+        "losses": 3,
         "apiName": "Washington Huskies"
       },
       "totalWins": 12
@@ -244,14 +244,14 @@
       "ncaa": {
         "team": "Alabama",
         "wins": 5,
-        "losses": 0,
+        "losses": 2,
         "apiName": "Alabama Crimson Tide"
       },
       "wild": {
         "team": "Navy",
         "league": "ncaaf",
         "wins": 2,
-        "losses": 0,
+        "losses": 4,
         "apiName": "Navy Midshipmen"
       },
       "totalWins": 11
@@ -274,7 +274,7 @@
         "team": "Kansas State",
         "league": "ncaaf",
         "wins": 4,
-        "losses": 0,
+        "losses": 2,
         "apiName": "Kansas State Wildcats"
       },
       "totalWins": 11
@@ -290,14 +290,14 @@
       "ncaa": {
         "team": "LSU",
         "wins": 5,
-        "losses": 0,
+        "losses": 2,
         "apiName": "LSU Tigers"
       },
       "wild": {
         "team": "Washington State",
         "league": "ncaaf",
         "wins": 1,
-        "losses": 0,
+        "losses": 6,
         "apiName": "Washington State Cougars"
       },
       "totalWins": 11
@@ -313,14 +313,14 @@
       "ncaa": {
         "team": "Georgia",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Georgia Bulldogs"
       },
       "wild": {
         "team": "Maryland",
         "league": "ncaaf",
         "wins": 2,
-        "losses": 0,
+        "losses": 5,
         "apiName": "Maryland Terrapins"
       },
       "totalWins": 11
@@ -336,7 +336,7 @@
       "ncaa": {
         "team": "Notre Dame",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Notre Dame Fighting Irish"
       },
       "wild": {
@@ -359,7 +359,7 @@
       "ncaa": {
         "team": "Ohio State",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Ohio State Buckeyes"
       },
       "wild": {
@@ -382,14 +382,14 @@
       "ncaa": {
         "team": "Oklahoma",
         "wins": 3,
-        "losses": 0,
+        "losses": 3,
         "apiName": "Oklahoma Sooners"
       },
       "wild": {
         "team": "Boise State",
         "league": "ncaaf",
         "wins": 5,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Boise State Broncos"
       },
       "totalWins": 10
@@ -405,17 +405,40 @@
       "ncaa": {
         "team": "Clemson",
         "wins": 4,
-        "losses": 0,
+        "losses": 2,
         "apiName": "Clemson Tigers"
       },
       "wild": {
         "team": "South Carolina",
         "league": "ncaaf",
         "wins": 3,
-        "losses": 0,
+        "losses": 3,
         "apiName": "South Carolina Gamecocks"
       },
       "totalWins": 9
+    },
+    {
+      "coach": "Kat",
+      "nfl": {
+        "team": "LA Chargers",
+        "wins": 0,
+        "losses": 5,
+        "apiName": "Los Angeles Chargers"
+      },
+      "ncaa": {
+        "team": "Oregon",
+        "wins": 4,
+        "losses": 2,
+        "apiName": "Oregon Ducks"
+      },
+      "wild": {
+        "team": "Texas A&M",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 3,
+        "apiName": "Texas A&M Aggies"
+      },
+      "totalWins": 8
     },
     {
       "coach": "Matt",
@@ -428,40 +451,17 @@
       "ncaa": {
         "team": "TCU",
         "wins": 3,
-        "losses": 0,
+        "losses": 3,
         "apiName": "TCU Horned Frogs"
       },
       "wild": {
         "team": "Arizona Wildcats",
         "league": "ncaaf",
         "wins": 5,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Arizona Wildcats"
       },
       "totalWins": 8
-    },
-    {
-      "coach": "Kat",
-      "nfl": {
-        "team": "LA Chargers",
-        "wins": 0,
-        "losses": 5,
-        "apiName": "Los Angeles Chargers"
-      },
-      "ncaa": {
-        "team": "Oregon",
-        "wins": 3,
-        "losses": 0,
-        "apiName": "Oregon Ducks"
-      },
-      "wild": {
-        "team": "Texas A&M",
-        "league": "ncaaf",
-        "wins": 4,
-        "losses": 0,
-        "apiName": "Texas A&M Aggies"
-      },
-      "totalWins": 7
     },
     {
       "coach": "Sara",
@@ -474,7 +474,7 @@
       "ncaa": {
         "team": "Virginia",
         "wins": 4,
-        "losses": 0,
+        "losses": 3,
         "apiName": "Virginia Cavaliers"
       },
       "wild": {
