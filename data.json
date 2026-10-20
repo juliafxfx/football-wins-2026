@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-19T22:20:18.269Z",
+  "updatedAt": "2026-10-20T04:48:34.786Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -211,6 +211,29 @@
       "totalWins": 12
     },
     {
+      "coach": "Christy",
+      "nfl": {
+        "team": "San Francisco",
+        "wins": 6,
+        "losses": 0,
+        "apiName": "San Francisco 49ers"
+      },
+      "ncaa": {
+        "team": "LSU",
+        "wins": 5,
+        "losses": 2,
+        "apiName": "LSU Tigers"
+      },
+      "wild": {
+        "team": "Washington State",
+        "league": "ncaaf",
+        "wins": 1,
+        "losses": 6,
+        "apiName": "Washington State Cougars"
+      },
+      "totalWins": 12
+    },
+    {
       "coach": "Ellie",
       "nfl": {
         "team": "Cincinnati",
@@ -324,29 +347,6 @@
         "apiName": "Washington Huskies"
       },
       "totalWins": 12
-    },
-    {
-      "coach": "Christy",
-      "nfl": {
-        "team": "San Francisco",
-        "wins": 5,
-        "losses": 0,
-        "apiName": "San Francisco 49ers"
-      },
-      "ncaa": {
-        "team": "LSU",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "LSU Tigers"
-      },
-      "wild": {
-        "team": "Washington State",
-        "league": "ncaaf",
-        "wins": 1,
-        "losses": 6,
-        "apiName": "Washington State Cougars"
-      },
-      "totalWins": 11
     },
     {
       "coach": "Katy",
@@ -468,7 +468,7 @@
       "nfl": {
         "team": "Washington",
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "apiName": "Washington Commanders"
       },
       "ncaa": {
