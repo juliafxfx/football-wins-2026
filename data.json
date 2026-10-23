@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-22T21:34:10.737Z",
+  "updatedAt": "2026-10-23T04:47:08.806Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -60,7 +60,7 @@
       "ncaa": {
         "team": "JMU",
         "wins": 7,
-        "losses": 0,
+        "losses": 1,
         "apiName": "James Madison Dukes"
       },
       "wild": {
@@ -99,7 +99,7 @@
       "coach": "Kelly Hanik",
       "nfl": {
         "team": "Chicago",
-        "wins": 4,
+        "wins": 5,
         "losses": 2,
         "apiName": "Chicago Bears"
       },
@@ -116,7 +116,7 @@
         "losses": 3,
         "apiName": "Louisville Cardinals"
       },
-      "totalWins": 13
+      "totalWins": 14
     },
     {
       "coach": "Kennedy",
@@ -284,7 +284,7 @@
       "nfl": {
         "team": "New England",
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "apiName": "New England Patriots"
       },
       "ncaa": {
