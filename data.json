@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-25T16:15:59.603Z",
+  "updatedAt": "2026-10-25T20:49:14.142Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -66,9 +66,32 @@
       "wild": {
         "team": "Minnesota Vikings",
         "league": "nfl",
-        "wins": 5,
+        "wins": 6,
         "losses": 0,
         "apiName": "Minnesota Vikings"
+      },
+      "totalWins": 16
+    },
+    {
+      "coach": "Joel",
+      "nfl": {
+        "team": "Atlanta",
+        "wins": 3,
+        "losses": 4,
+        "apiName": "Atlanta Falcons"
+      },
+      "ncaa": {
+        "team": "Miami, FL",
+        "wins": 7,
+        "losses": 0,
+        "apiName": "Miami Hurricanes"
+      },
+      "wild": {
+        "team": "Miami, OH",
+        "league": "ncaaf",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "Miami (OH) RedHawks"
       },
       "totalWins": 15
     },
@@ -96,6 +119,29 @@
       "totalWins": 15
     },
     {
+      "coach": "Kennedy",
+      "nfl": {
+        "team": "Cleveland",
+        "wins": 5,
+        "losses": 2,
+        "apiName": "Cleveland Browns"
+      },
+      "ncaa": {
+        "team": "Texas",
+        "wins": 5,
+        "losses": 2,
+        "apiName": "Texas Longhorns"
+      },
+      "wild": {
+        "team": "Ole Miss",
+        "league": "ncaaf",
+        "wins": 5,
+        "losses": 2,
+        "apiName": "Ole Miss Rebels"
+      },
+      "totalWins": 15
+    },
+    {
       "coach": "Marian",
       "nfl": {
         "team": "Denver",
@@ -117,52 +163,6 @@
         "apiName": "Auburn Tigers"
       },
       "totalWins": 15
-    },
-    {
-      "coach": "Joel",
-      "nfl": {
-        "team": "Atlanta",
-        "wins": 2,
-        "losses": 4,
-        "apiName": "Atlanta Falcons"
-      },
-      "ncaa": {
-        "team": "Miami, FL",
-        "wins": 7,
-        "losses": 0,
-        "apiName": "Miami Hurricanes"
-      },
-      "wild": {
-        "team": "Miami, OH",
-        "league": "ncaaf",
-        "wins": 5,
-        "losses": 3,
-        "apiName": "Miami (OH) RedHawks"
-      },
-      "totalWins": 14
-    },
-    {
-      "coach": "Kennedy",
-      "nfl": {
-        "team": "Cleveland",
-        "wins": 4,
-        "losses": 2,
-        "apiName": "Cleveland Browns"
-      },
-      "ncaa": {
-        "team": "Texas",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Texas Longhorns"
-      },
-      "wild": {
-        "team": "Ole Miss",
-        "league": "ncaaf",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Ole Miss Rebels"
-      },
-      "totalWins": 14
     },
     {
       "coach": "Alexis",
@@ -215,7 +215,7 @@
       "nfl": {
         "team": "San Francisco",
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "apiName": "San Francisco 49ers"
       },
       "ncaa": {
@@ -230,6 +230,52 @@
         "wins": 1,
         "losses": 7,
         "apiName": "Washington State Cougars"
+      },
+      "totalWins": 13
+    },
+    {
+      "coach": "Ellie",
+      "nfl": {
+        "team": "Cincinnati",
+        "wins": 4,
+        "losses": 2,
+        "apiName": "Cincinnati Bengals"
+      },
+      "ncaa": {
+        "team": "Penn State",
+        "wins": 3,
+        "losses": 4,
+        "apiName": "Penn State Nittany Lions"
+      },
+      "wild": {
+        "team": "USC Trojans",
+        "league": "ncaaf",
+        "wins": 6,
+        "losses": 2,
+        "apiName": "USC Trojans"
+      },
+      "totalWins": 13
+    },
+    {
+      "coach": "Ruthie",
+      "nfl": {
+        "team": "Pittsburgh",
+        "wins": 5,
+        "losses": 2,
+        "apiName": "Pittsburgh Steelers"
+      },
+      "ncaa": {
+        "team": "Notre Dame",
+        "wins": 6,
+        "losses": 1,
+        "apiName": "Notre Dame Fighting Irish"
+      },
+      "wild": {
+        "team": "Indianapolis",
+        "league": "nfl",
+        "wins": 2,
+        "losses": 5,
+        "apiName": "Indianapolis Colts"
       },
       "totalWins": 13
     },
@@ -257,25 +303,25 @@
       "totalWins": 12
     },
     {
-      "coach": "Ellie",
+      "coach": "Katy",
       "nfl": {
-        "team": "Cincinnati",
-        "wins": 3,
+        "team": "Green Bay",
+        "wins": 4,
         "losses": 2,
-        "apiName": "Cincinnati Bengals"
+        "apiName": "Green Bay Packers"
       },
       "ncaa": {
-        "team": "Penn State",
-        "wins": 3,
-        "losses": 4,
-        "apiName": "Penn State Nittany Lions"
+        "team": "Ohio State",
+        "wins": 6,
+        "losses": 1,
+        "apiName": "Ohio State Buckeyes"
       },
       "wild": {
-        "team": "USC Trojans",
-        "league": "ncaaf",
-        "wins": 6,
-        "losses": 2,
-        "apiName": "USC Trojans"
+        "team": "Tampa Bay",
+        "league": "nfl",
+        "wins": 2,
+        "losses": 5,
+        "apiName": "Tampa Bay Buccaneers"
       },
       "totalWins": 12
     },
@@ -303,34 +349,11 @@
       "totalWins": 12
     },
     {
-      "coach": "Ruthie",
-      "nfl": {
-        "team": "Pittsburgh",
-        "wins": 4,
-        "losses": 2,
-        "apiName": "Pittsburgh Steelers"
-      },
-      "ncaa": {
-        "team": "Notre Dame",
-        "wins": 6,
-        "losses": 1,
-        "apiName": "Notre Dame Fighting Irish"
-      },
-      "wild": {
-        "team": "Indianapolis",
-        "league": "nfl",
-        "wins": 2,
-        "losses": 4,
-        "apiName": "Indianapolis Colts"
-      },
-      "totalWins": 12
-    },
-    {
       "coach": "SophRice",
       "nfl": {
         "team": "Baltimore",
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Baltimore Ravens"
       },
       "ncaa": {
@@ -372,29 +395,6 @@
       "totalWins": 12
     },
     {
-      "coach": "Katy",
-      "nfl": {
-        "team": "Green Bay",
-        "wins": 4,
-        "losses": 2,
-        "apiName": "Green Bay Packers"
-      },
-      "ncaa": {
-        "team": "Ohio State",
-        "wins": 6,
-        "losses": 1,
-        "apiName": "Ohio State Buckeyes"
-      },
-      "wild": {
-        "team": "Tampa Bay",
-        "league": "nfl",
-        "wins": 1,
-        "losses": 5,
-        "apiName": "Tampa Bay Buccaneers"
-      },
-      "totalWins": 11
-    },
-    {
       "coach": "Clcely",
       "nfl": {
         "team": "LA Rams",
@@ -421,7 +421,7 @@
       "coach": "Matt",
       "nfl": {
         "team": "Miami",
-        "wins": 0,
+        "wins": 1,
         "losses": 5,
         "apiName": "Miami Dolphins"
       },
@@ -438,7 +438,7 @@
         "losses": 1,
         "apiName": "Arizona Wildcats"
       },
-      "totalWins": 9
+      "totalWins": 10
     },
     {
       "coach": "Kat",
@@ -481,7 +481,7 @@
         "team": "NYJets",
         "league": "nfl",
         "wins": 2,
-        "losses": 4,
+        "losses": 5,
         "apiName": "New York Jets"
       },
       "totalWins": 7
