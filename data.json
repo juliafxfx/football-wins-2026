@@ -1,14 +1,14 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-25T20:49:14.142Z",
+  "updatedAt": "2026-10-26T04:44:36.272Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
       "nfl": {
         "team": "Kansas City",
         "wins": 5,
-        "losses": 0,
+        "losses": 1,
         "apiName": "Kansas City Chiefs"
       },
       "ncaa": {
@@ -25,6 +25,29 @@
         "apiName": "Houston Cougars"
       },
       "totalWins": 18
+    },
+    {
+      "coach": "Chuck",
+      "nfl": {
+        "team": "Detroit",
+        "wins": 4,
+        "losses": 2,
+        "apiName": "Detroit Lions"
+      },
+      "ncaa": {
+        "team": "Utah",
+        "wins": 7,
+        "losses": 0,
+        "apiName": "Utah Utes"
+      },
+      "wild": {
+        "team": "Minnesota Vikings",
+        "league": "nfl",
+        "wins": 6,
+        "losses": 0,
+        "apiName": "Minnesota Vikings"
+      },
+      "totalWins": 17
     },
     {
       "coach": "Julia",
@@ -50,25 +73,25 @@
       "totalWins": 17
     },
     {
-      "coach": "Chuck",
+      "coach": "Marian",
       "nfl": {
-        "team": "Detroit",
-        "wins": 3,
+        "team": "Denver",
+        "wins": 5,
         "losses": 2,
-        "apiName": "Detroit Lions"
+        "apiName": "Denver Broncos"
       },
       "ncaa": {
-        "team": "Utah",
+        "team": "JMU",
         "wins": 7,
-        "losses": 0,
-        "apiName": "Utah Utes"
+        "losses": 1,
+        "apiName": "James Madison Dukes"
       },
       "wild": {
-        "team": "Minnesota Vikings",
-        "league": "nfl",
-        "wins": 6,
-        "losses": 0,
-        "apiName": "Minnesota Vikings"
+        "team": "Auburn",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 3,
+        "apiName": "Auburn Tigers"
       },
       "totalWins": 16
     },
@@ -142,27 +165,27 @@
       "totalWins": 15
     },
     {
-      "coach": "Marian",
+      "coach": "Chrissy",
       "nfl": {
-        "team": "Denver",
-        "wins": 4,
-        "losses": 2,
-        "apiName": "Denver Broncos"
-      },
-      "ncaa": {
-        "team": "JMU",
-        "wins": 7,
-        "losses": 1,
-        "apiName": "James Madison Dukes"
-      },
-      "wild": {
-        "team": "Auburn",
-        "league": "ncaaf",
+        "team": "Seattle",
         "wins": 4,
         "losses": 3,
-        "apiName": "Auburn Tigers"
+        "apiName": "Seattle Seahawks"
       },
-      "totalWins": 15
+      "ncaa": {
+        "team": "West Virginia",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "West Virginia Mountaineers"
+      },
+      "wild": {
+        "team": "Pitt",
+        "league": "ncaaf",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "Pittsburgh Panthers"
+      },
+      "totalWins": 14
     },
     {
       "coach": "Alexis",
@@ -184,29 +207,6 @@
         "wins": 2,
         "losses": 5,
         "apiName": "Navy Midshipmen"
-      },
-      "totalWins": 13
-    },
-    {
-      "coach": "Chrissy",
-      "nfl": {
-        "team": "Seattle",
-        "wins": 3,
-        "losses": 3,
-        "apiName": "Seattle Seahawks"
-      },
-      "ncaa": {
-        "team": "West Virginia",
-        "wins": 5,
-        "losses": 3,
-        "apiName": "West Virginia Mountaineers"
-      },
-      "wild": {
-        "team": "Pitt",
-        "league": "ncaaf",
-        "wins": 5,
-        "losses": 3,
-        "apiName": "Pittsburgh Panthers"
       },
       "totalWins": 13
     },
@@ -284,7 +284,7 @@
       "nfl": {
         "team": "Houston",
         "wins": 2,
-        "losses": 4,
+        "losses": 5,
         "apiName": "Houston Texans"
       },
       "ncaa": {
@@ -307,7 +307,7 @@
       "nfl": {
         "team": "Green Bay",
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Green Bay Packers"
       },
       "ncaa": {
@@ -398,7 +398,7 @@
       "coach": "Clcely",
       "nfl": {
         "team": "LA Rams",
-        "wins": 2,
+        "wins": 3,
         "losses": 4,
         "apiName": "Los Angeles Rams"
       },
@@ -415,7 +415,7 @@
         "losses": 3,
         "apiName": "South Carolina Gamecocks"
       },
-      "totalWins": 10
+      "totalWins": 11
     },
     {
       "coach": "Matt",
