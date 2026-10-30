@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-29T22:44:19.744Z",
+  "updatedAt": "2026-10-30T05:45:28.961Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -83,7 +83,7 @@
       "ncaa": {
         "team": "JMU",
         "wins": 7,
-        "losses": 1,
+        "losses": 2,
         "apiName": "James Madison Dukes"
       },
       "wild": {
@@ -257,6 +257,29 @@
       "totalWins": 13
     },
     {
+      "coach": "Katy",
+      "nfl": {
+        "team": "Green Bay",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "Green Bay Packers"
+      },
+      "ncaa": {
+        "team": "Ohio State",
+        "wins": 6,
+        "losses": 1,
+        "apiName": "Ohio State Buckeyes"
+      },
+      "wild": {
+        "team": "Tampa Bay",
+        "league": "nfl",
+        "wins": 2,
+        "losses": 5,
+        "apiName": "Tampa Bay Buccaneers"
+      },
+      "totalWins": 13
+    },
+    {
       "coach": "Ruthie",
       "nfl": {
         "team": "Pittsburgh",
@@ -299,29 +322,6 @@
         "wins": 4,
         "losses": 3,
         "apiName": "Kansas State Wildcats"
-      },
-      "totalWins": 12
-    },
-    {
-      "coach": "Katy",
-      "nfl": {
-        "team": "Green Bay",
-        "wins": 4,
-        "losses": 3,
-        "apiName": "Green Bay Packers"
-      },
-      "ncaa": {
-        "team": "Ohio State",
-        "wins": 6,
-        "losses": 1,
-        "apiName": "Ohio State Buckeyes"
-      },
-      "wild": {
-        "team": "Tampa Bay",
-        "league": "nfl",
-        "wins": 2,
-        "losses": 5,
-        "apiName": "Tampa Bay Buccaneers"
       },
       "totalWins": 12
     },
