@@ -1,8 +1,31 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-10-31T12:25:32.083Z",
+  "updatedAt": "2026-10-31T21:31:24.987Z",
   "leaderboard": [
+    {
+      "coach": "Julia",
+      "nfl": {
+        "team": "Jacksonville",
+        "wins": 4,
+        "losses": 2,
+        "apiName": "Jacksonville Jaguars"
+      },
+      "ncaa": {
+        "team": "Texas Tech",
+        "wins": 7,
+        "losses": 1,
+        "apiName": "Texas Tech Red Raiders"
+      },
+      "wild": {
+        "team": "Kentucky",
+        "league": "ncaaf",
+        "wins": 7,
+        "losses": 1,
+        "apiName": "Kentucky Wildcats"
+      },
+      "totalWins": 18
+    },
     {
       "coach": "Kelly Ellis",
       "nfl": {
@@ -50,27 +73,27 @@
       "totalWins": 17
     },
     {
-      "coach": "Julia",
+      "coach": "Kennedy",
       "nfl": {
-        "team": "Jacksonville",
-        "wins": 4,
+        "team": "Cleveland",
+        "wins": 5,
         "losses": 2,
-        "apiName": "Jacksonville Jaguars"
+        "apiName": "Cleveland Browns"
       },
       "ncaa": {
-        "team": "Texas Tech",
-        "wins": 6,
-        "losses": 1,
-        "apiName": "Texas Tech Red Raiders"
+        "team": "Texas",
+        "wins": 5,
+        "losses": 2,
+        "apiName": "Texas Longhorns"
       },
       "wild": {
-        "team": "Kentucky",
+        "team": "Ole Miss",
         "league": "ncaaf",
-        "wins": 7,
-        "losses": 1,
-        "apiName": "Kentucky Wildcats"
+        "wins": 6,
+        "losses": 2,
+        "apiName": "Ole Miss Rebels"
       },
-      "totalWins": 17
+      "totalWins": 16
     },
     {
       "coach": "Marian",
@@ -90,7 +113,7 @@
         "team": "Auburn",
         "league": "ncaaf",
         "wins": 4,
-        "losses": 3,
+        "losses": 4,
         "apiName": "Auburn Tigers"
       },
       "totalWins": 16
@@ -129,7 +152,7 @@
       "ncaa": {
         "team": "SMU",
         "wins": 6,
-        "losses": 1,
+        "losses": 2,
         "apiName": "SMU Mustangs"
       },
       "wild": {
@@ -138,29 +161,6 @@
         "wins": 4,
         "losses": 3,
         "apiName": "Louisville Cardinals"
-      },
-      "totalWins": 15
-    },
-    {
-      "coach": "Kennedy",
-      "nfl": {
-        "team": "Cleveland",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Cleveland Browns"
-      },
-      "ncaa": {
-        "team": "Texas",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Texas Longhorns"
-      },
-      "wild": {
-        "team": "Ole Miss",
-        "league": "ncaaf",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Ole Miss Rebels"
       },
       "totalWins": 15
     },
@@ -188,6 +188,29 @@
       "totalWins": 14
     },
     {
+      "coach": "Ruthie",
+      "nfl": {
+        "team": "Pittsburgh",
+        "wins": 5,
+        "losses": 2,
+        "apiName": "Pittsburgh Steelers"
+      },
+      "ncaa": {
+        "team": "Notre Dame",
+        "wins": 7,
+        "losses": 1,
+        "apiName": "Notre Dame Fighting Irish"
+      },
+      "wild": {
+        "team": "Indianapolis",
+        "league": "nfl",
+        "wins": 2,
+        "losses": 5,
+        "apiName": "Indianapolis Colts"
+      },
+      "totalWins": 14
+    },
+    {
       "coach": "Alexis",
       "nfl": {
         "team": "Buffalo",
@@ -205,7 +228,7 @@
         "team": "Navy",
         "league": "ncaaf",
         "wins": 2,
-        "losses": 5,
+        "losses": 6,
         "apiName": "Navy Midshipmen"
       },
       "totalWins": 13
@@ -280,25 +303,25 @@
       "totalWins": 13
     },
     {
-      "coach": "Ruthie",
+      "coach": "SophRice",
       "nfl": {
-        "team": "Pittsburgh",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Pittsburgh Steelers"
+        "team": "Baltimore",
+        "wins": 4,
+        "losses": 3,
+        "apiName": "Baltimore Ravens"
       },
       "ncaa": {
-        "team": "Notre Dame",
-        "wins": 6,
-        "losses": 1,
-        "apiName": "Notre Dame Fighting Irish"
+        "team": "Michigan",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "Michigan Wolverines"
       },
       "wild": {
-        "team": "Indianapolis",
-        "league": "nfl",
-        "wins": 2,
-        "losses": 5,
-        "apiName": "Indianapolis Colts"
+        "team": "Washington Huskies",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 3,
+        "apiName": "Washington Huskies"
       },
       "totalWins": 13
     },
@@ -343,31 +366,8 @@
         "team": "Maryland",
         "league": "ncaaf",
         "wins": 2,
-        "losses": 5,
+        "losses": 6,
         "apiName": "Maryland Terrapins"
-      },
-      "totalWins": 12
-    },
-    {
-      "coach": "SophRice",
-      "nfl": {
-        "team": "Baltimore",
-        "wins": 4,
-        "losses": 3,
-        "apiName": "Baltimore Ravens"
-      },
-      "ncaa": {
-        "team": "Michigan",
-        "wins": 4,
-        "losses": 3,
-        "apiName": "Michigan Wolverines"
-      },
-      "wild": {
-        "team": "Washington Huskies",
-        "league": "ncaaf",
-        "wins": 4,
-        "losses": 3,
-        "apiName": "Washington Huskies"
       },
       "totalWins": 12
     },
@@ -435,7 +435,7 @@
         "team": "Arizona Wildcats",
         "league": "ncaaf",
         "wins": 6,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Arizona Wildcats"
       },
       "totalWins": 10
