@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-01T05:59:50.087Z",
+  "updatedAt": "2026-11-01T13:20:42.661Z",
   "leaderboard": [
     {
       "coach": "Kelly Ellis",
@@ -411,11 +411,11 @@
       "wild": {
         "team": "Boise State",
         "league": "ncaaf",
-        "wins": 6,
+        "wins": 7,
         "losses": 1,
         "apiName": "Boise State Broncos"
       },
-      "totalWins": 12
+      "totalWins": 13
     },
     {
       "coach": "Matt",
