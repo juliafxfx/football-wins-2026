@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-01T21:59:54.089Z",
+  "updatedAt": "2026-11-02T05:59:07.334Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -54,7 +54,7 @@
       "nfl": {
         "team": "Kansas City",
         "wins": 5,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Kansas City Chiefs"
       },
       "ncaa": {
@@ -94,6 +94,52 @@
         "apiName": "Ole Miss Rebels"
       },
       "totalWins": 17
+    },
+    {
+      "coach": "Marian",
+      "nfl": {
+        "team": "Denver",
+        "wins": 6,
+        "losses": 2,
+        "apiName": "Denver Broncos"
+      },
+      "ncaa": {
+        "team": "JMU",
+        "wins": 7,
+        "losses": 2,
+        "apiName": "James Madison Dukes"
+      },
+      "wild": {
+        "team": "Auburn",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 4,
+        "apiName": "Auburn Tigers"
+      },
+      "totalWins": 17
+    },
+    {
+      "coach": "Ellie",
+      "nfl": {
+        "team": "Cincinnati",
+        "wins": 5,
+        "losses": 2,
+        "apiName": "Cincinnati Bengals"
+      },
+      "ncaa": {
+        "team": "Penn State",
+        "wins": 4,
+        "losses": 4,
+        "apiName": "Penn State Nittany Lions"
+      },
+      "wild": {
+        "team": "USC Trojans",
+        "league": "ncaaf",
+        "wins": 7,
+        "losses": 2,
+        "apiName": "USC Trojans"
+      },
+      "totalWins": 16
     },
     {
       "coach": "Joel",
@@ -142,29 +188,6 @@
       "totalWins": 16
     },
     {
-      "coach": "Marian",
-      "nfl": {
-        "team": "Denver",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Denver Broncos"
-      },
-      "ncaa": {
-        "team": "JMU",
-        "wins": 7,
-        "losses": 2,
-        "apiName": "James Madison Dukes"
-      },
-      "wild": {
-        "team": "Auburn",
-        "league": "ncaaf",
-        "wins": 4,
-        "losses": 4,
-        "apiName": "Auburn Tigers"
-      },
-      "totalWins": 16
-    },
-    {
       "coach": "Chrissy",
       "nfl": {
         "team": "Seattle",
@@ -184,29 +207,6 @@
         "wins": 6,
         "losses": 3,
         "apiName": "Pittsburgh Panthers"
-      },
-      "totalWins": 15
-    },
-    {
-      "coach": "Ellie",
-      "nfl": {
-        "team": "Cincinnati",
-        "wins": 4,
-        "losses": 2,
-        "apiName": "Cincinnati Bengals"
-      },
-      "ncaa": {
-        "team": "Penn State",
-        "wins": 4,
-        "losses": 4,
-        "apiName": "Penn State Nittany Lions"
-      },
-      "wild": {
-        "team": "USC Trojans",
-        "league": "ncaaf",
-        "wins": 7,
-        "losses": 2,
-        "apiName": "USC Trojans"
       },
       "totalWins": 15
     },
@@ -257,6 +257,29 @@
       "totalWins": 14
     },
     {
+      "coach": "Clcely",
+      "nfl": {
+        "team": "LA Rams",
+        "wins": 4,
+        "losses": 4,
+        "apiName": "Los Angeles Rams"
+      },
+      "ncaa": {
+        "team": "Clemson",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "Clemson Tigers"
+      },
+      "wild": {
+        "team": "South Carolina",
+        "league": "ncaaf",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "South Carolina Gamecocks"
+      },
+      "totalWins": 14
+    },
+    {
       "coach": "Katy",
       "nfl": {
         "team": "Green Bay",
@@ -276,6 +299,29 @@
         "wins": 3,
         "losses": 5,
         "apiName": "Tampa Bay Buccaneers"
+      },
+      "totalWins": 14
+    },
+    {
+      "coach": "Montse",
+      "nfl": {
+        "team": "New England",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "New England Patriots"
+      },
+      "ncaa": {
+        "team": "Georgia",
+        "wins": 7,
+        "losses": 1,
+        "apiName": "Georgia Bulldogs"
+      },
+      "wild": {
+        "team": "Maryland",
+        "league": "ncaaf",
+        "wins": 2,
+        "losses": 6,
+        "apiName": "Maryland Terrapins"
       },
       "totalWins": 14
     },
@@ -349,57 +395,11 @@
       "totalWins": 13
     },
     {
-      "coach": "Clcely",
-      "nfl": {
-        "team": "LA Rams",
-        "wins": 3,
-        "losses": 4,
-        "apiName": "Los Angeles Rams"
-      },
-      "ncaa": {
-        "team": "Clemson",
-        "wins": 5,
-        "losses": 3,
-        "apiName": "Clemson Tigers"
-      },
-      "wild": {
-        "team": "South Carolina",
-        "league": "ncaaf",
-        "wins": 5,
-        "losses": 3,
-        "apiName": "South Carolina Gamecocks"
-      },
-      "totalWins": 13
-    },
-    {
-      "coach": "Montse",
-      "nfl": {
-        "team": "New England",
-        "wins": 4,
-        "losses": 3,
-        "apiName": "New England Patriots"
-      },
-      "ncaa": {
-        "team": "Georgia",
-        "wins": 7,
-        "losses": 1,
-        "apiName": "Georgia Bulldogs"
-      },
-      "wild": {
-        "team": "Maryland",
-        "league": "ncaaf",
-        "wins": 2,
-        "losses": 6,
-        "apiName": "Maryland Terrapins"
-      },
-      "totalWins": 13
-    },
-    {
       "coach": "Terry",
       "nfl": {
         "team": "Philadelphia",
         "wins": 2,
-        "losses": 5,
+        "losses": 6,
         "apiName": "Philadelphia Eagles"
       },
       "ncaa": {
@@ -422,7 +422,7 @@
       "nfl": {
         "team": "Miami",
         "wins": 1,
-        "losses": 5,
+        "losses": 6,
         "apiName": "Miami Dolphins"
       },
       "ncaa": {
@@ -445,7 +445,7 @@
       "nfl": {
         "team": "LA Chargers",
         "wins": 0,
-        "losses": 6,
+        "losses": 7,
         "apiName": "Los Angeles Chargers"
       },
       "ncaa": {
@@ -467,7 +467,7 @@
       "coach": "Sara",
       "nfl": {
         "team": "Washington",
-        "wins": 1,
+        "wins": 2,
         "losses": 4,
         "apiName": "Washington Commanders"
       },
@@ -484,7 +484,7 @@
         "losses": 6,
         "apiName": "New York Jets"
       },
-      "totalWins": 7
+      "totalWins": 8
     }
   ],
   "diagnostics": {
