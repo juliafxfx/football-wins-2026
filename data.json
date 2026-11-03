@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-02T15:47:22.922Z",
+  "updatedAt": "2026-11-03T14:10:43.910Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -71,6 +71,29 @@
         "apiName": "Houston Cougars"
       },
       "totalWins": 19
+    },
+    {
+      "coach": "Kelly Hanik",
+      "nfl": {
+        "team": "Chicago",
+        "wins": 6,
+        "losses": 2,
+        "apiName": "Chicago Bears"
+      },
+      "ncaa": {
+        "team": "SMU",
+        "wins": 6,
+        "losses": 2,
+        "apiName": "SMU Mustangs"
+      },
+      "wild": {
+        "team": "Louisville",
+        "league": "ncaaf",
+        "wins": 5,
+        "losses": 3,
+        "apiName": "Louisville Cardinals"
+      },
+      "totalWins": 17
     },
     {
       "coach": "Kennedy",
@@ -165,34 +188,11 @@
       "totalWins": 16
     },
     {
-      "coach": "Kelly Hanik",
-      "nfl": {
-        "team": "Chicago",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Chicago Bears"
-      },
-      "ncaa": {
-        "team": "SMU",
-        "wins": 6,
-        "losses": 2,
-        "apiName": "SMU Mustangs"
-      },
-      "wild": {
-        "team": "Louisville",
-        "league": "ncaaf",
-        "wins": 5,
-        "losses": 3,
-        "apiName": "Louisville Cardinals"
-      },
-      "totalWins": 16
-    },
-    {
       "coach": "Chrissy",
       "nfl": {
         "team": "Seattle",
         "wins": 4,
-        "losses": 3,
+        "losses": 4,
         "apiName": "Seattle Seahawks"
       },
       "ncaa": {
