@@ -1,8 +1,31 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-05T19:55:41.158Z",
+  "updatedAt": "2026-11-06T06:40:38.128Z",
   "leaderboard": [
+    {
+      "coach": "Julia",
+      "nfl": {
+        "team": "Jacksonville",
+        "wins": 6,
+        "losses": 2,
+        "apiName": "Jacksonville Jaguars"
+      },
+      "ncaa": {
+        "team": "Texas Tech",
+        "wins": 7,
+        "losses": 1,
+        "apiName": "Texas Tech Red Raiders"
+      },
+      "wild": {
+        "team": "Kentucky",
+        "league": "ncaaf",
+        "wins": 7,
+        "losses": 1,
+        "apiName": "Kentucky Wildcats"
+      },
+      "totalWins": 20
+    },
     {
       "coach": "Chuck",
       "nfl": {
@@ -23,29 +46,6 @@
         "wins": 6,
         "losses": 1,
         "apiName": "Minnesota Vikings"
-      },
-      "totalWins": 19
-    },
-    {
-      "coach": "Julia",
-      "nfl": {
-        "team": "Jacksonville",
-        "wins": 5,
-        "losses": 2,
-        "apiName": "Jacksonville Jaguars"
-      },
-      "ncaa": {
-        "team": "Texas Tech",
-        "wins": 7,
-        "losses": 1,
-        "apiName": "Texas Tech Red Raiders"
-      },
-      "wild": {
-        "team": "Kentucky",
-        "league": "ncaaf",
-        "wins": 7,
-        "losses": 1,
-        "apiName": "Kentucky Wildcats"
       },
       "totalWins": 19
     },
@@ -71,6 +71,29 @@
         "apiName": "Houston Cougars"
       },
       "totalWins": 19
+    },
+    {
+      "coach": "Marian",
+      "nfl": {
+        "team": "Denver",
+        "wins": 6,
+        "losses": 2,
+        "apiName": "Denver Broncos"
+      },
+      "ncaa": {
+        "team": "JMU",
+        "wins": 8,
+        "losses": 2,
+        "apiName": "James Madison Dukes"
+      },
+      "wild": {
+        "team": "Auburn",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 4,
+        "apiName": "Auburn Tigers"
+      },
+      "totalWins": 18
     },
     {
       "coach": "Kelly Hanik",
@@ -115,29 +138,6 @@
         "wins": 6,
         "losses": 2,
         "apiName": "Ole Miss Rebels"
-      },
-      "totalWins": 17
-    },
-    {
-      "coach": "Marian",
-      "nfl": {
-        "team": "Denver",
-        "wins": 6,
-        "losses": 2,
-        "apiName": "Denver Broncos"
-      },
-      "ncaa": {
-        "team": "JMU",
-        "wins": 7,
-        "losses": 2,
-        "apiName": "James Madison Dukes"
-      },
-      "wild": {
-        "team": "Auburn",
-        "league": "ncaaf",
-        "wins": 4,
-        "losses": 4,
-        "apiName": "Auburn Tigers"
       },
       "totalWins": 17
     },
@@ -330,7 +330,7 @@
       "nfl": {
         "team": "Baltimore",
         "wins": 4,
-        "losses": 4,
+        "losses": 5,
         "apiName": "Baltimore Ravens"
       },
       "ncaa": {
