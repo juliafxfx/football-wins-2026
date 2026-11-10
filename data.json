@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-09T22:19:38.524Z",
+  "updatedAt": "2026-11-10T07:15:03.157Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -21,7 +21,7 @@
         "team": "Minnesota Vikings",
         "league": "nfl",
         "wins": 6,
-        "losses": 1,
+        "losses": 2,
         "apiName": "Minnesota Vikings"
       },
       "totalWins": 21
@@ -165,6 +165,29 @@
       "totalWins": 18
     },
     {
+      "coach": "Alexis",
+      "nfl": {
+        "team": "Buffalo",
+        "wins": 7,
+        "losses": 1,
+        "apiName": "Buffalo Bills"
+      },
+      "ncaa": {
+        "team": "Alabama",
+        "wins": 7,
+        "losses": 2,
+        "apiName": "Alabama Crimson Tide"
+      },
+      "wild": {
+        "team": "Navy",
+        "league": "ncaaf",
+        "wins": 3,
+        "losses": 6,
+        "apiName": "Navy Midshipmen"
+      },
+      "totalWins": 17
+    },
+    {
       "coach": "Clcely",
       "nfl": {
         "team": "LA Rams",
@@ -186,29 +209,6 @@
         "apiName": "South Carolina Gamecocks"
       },
       "totalWins": 17
-    },
-    {
-      "coach": "Alexis",
-      "nfl": {
-        "team": "Buffalo",
-        "wins": 6,
-        "losses": 1,
-        "apiName": "Buffalo Bills"
-      },
-      "ncaa": {
-        "team": "Alabama",
-        "wins": 7,
-        "losses": 2,
-        "apiName": "Alabama Crimson Tide"
-      },
-      "wild": {
-        "team": "Navy",
-        "league": "ncaaf",
-        "wins": 3,
-        "losses": 6,
-        "apiName": "Navy Midshipmen"
-      },
-      "totalWins": 16
     },
     {
       "coach": "Chrissy",
