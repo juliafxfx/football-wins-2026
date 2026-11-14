@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-14T06:19:38.802Z",
+  "updatedAt": "2026-11-14T17:59:04.272Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -67,7 +67,7 @@
         "team": "Houston Cougars",
         "league": "ncaaf",
         "wins": 7,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Houston Cougars"
       },
       "totalWins": 21
