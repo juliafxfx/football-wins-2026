@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-16T21:59:36.597Z",
+  "updatedAt": "2026-11-17T07:52:54.455Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -399,7 +399,7 @@
       "nfl": {
         "team": "Baltimore",
         "wins": 4,
-        "losses": 5,
+        "losses": 6,
         "apiName": "Baltimore Ravens"
       },
       "ncaa": {
@@ -444,7 +444,7 @@
       "coach": "Kat",
       "nfl": {
         "team": "LA Chargers",
-        "wins": 0,
+        "wins": 1,
         "losses": 8,
         "apiName": "Los Angeles Chargers"
       },
@@ -461,7 +461,7 @@
         "losses": 6,
         "apiName": "Texas A&M Aggies"
       },
-      "totalWins": 11
+      "totalWins": 12
     },
     {
       "coach": "Sara",
