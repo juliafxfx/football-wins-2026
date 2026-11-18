@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-17T20:53:37.484Z",
+  "updatedAt": "2026-11-18T07:25:55.086Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -188,6 +188,29 @@
       "totalWins": 19
     },
     {
+      "coach": "Joel",
+      "nfl": {
+        "team": "Atlanta",
+        "wins": 3,
+        "losses": 7,
+        "apiName": "Atlanta Falcons"
+      },
+      "ncaa": {
+        "team": "Miami, FL",
+        "wins": 9,
+        "losses": 1,
+        "apiName": "Miami Hurricanes"
+      },
+      "wild": {
+        "team": "Miami, OH",
+        "league": "ncaaf",
+        "wins": 7,
+        "losses": 4,
+        "apiName": "Miami (OH) RedHawks"
+      },
+      "totalWins": 19
+    },
+    {
       "coach": "Clcely",
       "nfl": {
         "team": "LA Rams",
@@ -207,29 +230,6 @@
         "wins": 6,
         "losses": 4,
         "apiName": "South Carolina Gamecocks"
-      },
-      "totalWins": 18
-    },
-    {
-      "coach": "Joel",
-      "nfl": {
-        "team": "Atlanta",
-        "wins": 3,
-        "losses": 7,
-        "apiName": "Atlanta Falcons"
-      },
-      "ncaa": {
-        "team": "Miami, FL",
-        "wins": 9,
-        "losses": 1,
-        "apiName": "Miami Hurricanes"
-      },
-      "wild": {
-        "team": "Miami, OH",
-        "league": "ncaaf",
-        "wins": 6,
-        "losses": 4,
-        "apiName": "Miami (OH) RedHawks"
       },
       "totalWins": 18
     },
