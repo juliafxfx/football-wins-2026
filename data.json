@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-19T20:33:43.702Z",
+  "updatedAt": "2026-11-20T07:12:24.506Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -274,7 +274,7 @@
         "team": "Indianapolis",
         "league": "nfl",
         "wins": 3,
-        "losses": 7,
+        "losses": 8,
         "apiName": "Indianapolis Colts"
       },
       "totalWins": 18
@@ -326,6 +326,29 @@
       "totalWins": 17
     },
     {
+      "coach": "Andy",
+      "nfl": {
+        "team": "Houston",
+        "wins": 4,
+        "losses": 6,
+        "apiName": "Houston Texans"
+      },
+      "ncaa": {
+        "team": "BYU",
+        "wins": 8,
+        "losses": 2,
+        "apiName": "BYU Cougars"
+      },
+      "wild": {
+        "team": "Kansas State",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 6,
+        "apiName": "Kansas State Wildcats"
+      },
+      "totalWins": 16
+    },
+    {
       "coach": "Christy",
       "nfl": {
         "team": "San Francisco",
@@ -370,29 +393,6 @@
         "apiName": "Tampa Bay Buccaneers"
       },
       "totalWins": 16
-    },
-    {
-      "coach": "Andy",
-      "nfl": {
-        "team": "Houston",
-        "wins": 3,
-        "losses": 6,
-        "apiName": "Houston Texans"
-      },
-      "ncaa": {
-        "team": "BYU",
-        "wins": 8,
-        "losses": 2,
-        "apiName": "BYU Cougars"
-      },
-      "wild": {
-        "team": "Kansas State",
-        "league": "ncaaf",
-        "wins": 4,
-        "losses": 6,
-        "apiName": "Kansas State Wildcats"
-      },
-      "totalWins": 15
     },
     {
       "coach": "SophRice",
