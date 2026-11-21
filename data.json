@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-20T20:15:05.892Z",
+  "updatedAt": "2026-11-21T07:03:36.173Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -188,6 +188,29 @@
       "totalWins": 19
     },
     {
+      "coach": "Clcely",
+      "nfl": {
+        "team": "LA Rams",
+        "wins": 6,
+        "losses": 4,
+        "apiName": "Los Angeles Rams"
+      },
+      "ncaa": {
+        "team": "Clemson",
+        "wins": 7,
+        "losses": 4,
+        "apiName": "Clemson Tigers"
+      },
+      "wild": {
+        "team": "South Carolina",
+        "league": "ncaaf",
+        "wins": 6,
+        "losses": 4,
+        "apiName": "South Carolina Gamecocks"
+      },
+      "totalWins": 19
+    },
+    {
       "coach": "Joel",
       "nfl": {
         "team": "Atlanta",
@@ -209,29 +232,6 @@
         "apiName": "Miami (OH) RedHawks"
       },
       "totalWins": 19
-    },
-    {
-      "coach": "Clcely",
-      "nfl": {
-        "team": "LA Rams",
-        "wins": 6,
-        "losses": 4,
-        "apiName": "Los Angeles Rams"
-      },
-      "ncaa": {
-        "team": "Clemson",
-        "wins": 6,
-        "losses": 4,
-        "apiName": "Clemson Tigers"
-      },
-      "wild": {
-        "team": "South Carolina",
-        "league": "ncaaf",
-        "wins": 6,
-        "losses": 4,
-        "apiName": "South Carolina Gamecocks"
-      },
-      "totalWins": 18
     },
     {
       "coach": "Montse",
@@ -418,6 +418,29 @@
       "totalWins": 15
     },
     {
+      "coach": "Kat",
+      "nfl": {
+        "team": "LA Chargers",
+        "wins": 1,
+        "losses": 8,
+        "apiName": "Los Angeles Chargers"
+      },
+      "ncaa": {
+        "team": "Oregon",
+        "wins": 8,
+        "losses": 3,
+        "apiName": "Oregon Ducks"
+      },
+      "wild": {
+        "team": "Texas A&M",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 6,
+        "apiName": "Texas A&M Aggies"
+      },
+      "totalWins": 13
+    },
+    {
       "coach": "Matt",
       "nfl": {
         "team": "Miami",
@@ -439,29 +462,6 @@
         "apiName": "Arizona Wildcats"
       },
       "totalWins": 13
-    },
-    {
-      "coach": "Kat",
-      "nfl": {
-        "team": "LA Chargers",
-        "wins": 1,
-        "losses": 8,
-        "apiName": "Los Angeles Chargers"
-      },
-      "ncaa": {
-        "team": "Oregon",
-        "wins": 7,
-        "losses": 3,
-        "apiName": "Oregon Ducks"
-      },
-      "wild": {
-        "team": "Texas A&M",
-        "league": "ncaaf",
-        "wins": 4,
-        "losses": 6,
-        "apiName": "Texas A&M Aggies"
-      },
-      "totalWins": 12
     },
     {
       "coach": "Sara",
