@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-23T23:51:30.869Z",
+  "updatedAt": "2026-11-24T09:52:21.336Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -169,7 +169,7 @@
       "nfl": {
         "team": "Cincinnati",
         "wins": 7,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Cincinnati Bengals"
       },
       "ncaa": {
@@ -467,7 +467,7 @@
       "coach": "Sara",
       "nfl": {
         "team": "Washington",
-        "wins": 3,
+        "wins": 4,
         "losses": 5,
         "apiName": "Washington Commanders"
       },
@@ -484,7 +484,7 @@
         "losses": 8,
         "apiName": "New York Jets"
       },
-      "totalWins": 12
+      "totalWins": 13
     }
   ],
   "diagnostics": {
