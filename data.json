@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-24T22:24:35.571Z",
+  "updatedAt": "2026-11-25T08:30:08.151Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -204,11 +204,11 @@
       "wild": {
         "team": "Miami, OH",
         "league": "ncaaf",
-        "wins": 7,
+        "wins": 8,
         "losses": 4,
         "apiName": "Miami (OH) RedHawks"
       },
-      "totalWins": 20
+      "totalWins": 21
     },
     {
       "coach": "Clcely",
