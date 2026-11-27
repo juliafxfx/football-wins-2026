@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-27T08:27:30.050Z",
+  "updatedAt": "2026-11-27T21:14:24.449Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -119,6 +119,29 @@
       "totalWins": 23
     },
     {
+      "coach": "Kennedy",
+      "nfl": {
+        "team": "Cleveland",
+        "wins": 6,
+        "losses": 4,
+        "apiName": "Cleveland Browns"
+      },
+      "ncaa": {
+        "team": "Texas",
+        "wins": 9,
+        "losses": 2,
+        "apiName": "Texas Longhorns"
+      },
+      "wild": {
+        "team": "Ole Miss",
+        "league": "ncaaf",
+        "wins": 8,
+        "losses": 4,
+        "apiName": "Ole Miss Rebels"
+      },
+      "totalWins": 23
+    },
+    {
       "coach": "Marian",
       "nfl": {
         "team": "Denver",
@@ -140,29 +163,6 @@
         "apiName": "Auburn Tigers"
       },
       "totalWins": 23
-    },
-    {
-      "coach": "Kennedy",
-      "nfl": {
-        "team": "Cleveland",
-        "wins": 6,
-        "losses": 4,
-        "apiName": "Cleveland Browns"
-      },
-      "ncaa": {
-        "team": "Texas",
-        "wins": 9,
-        "losses": 2,
-        "apiName": "Texas Longhorns"
-      },
-      "wild": {
-        "team": "Ole Miss",
-        "league": "ncaaf",
-        "wins": 7,
-        "losses": 4,
-        "apiName": "Ole Miss Rebels"
-      },
-      "totalWins": 22
     },
     {
       "coach": "Ellie",
