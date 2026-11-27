@@ -1,14 +1,14 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-26T21:29:13.294Z",
+  "updatedAt": "2026-11-27T08:27:30.050Z",
   "leaderboard": [
     {
       "coach": "Chuck",
       "nfl": {
         "team": "Detroit",
         "wins": 8,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Detroit Lions"
       },
       "ncaa": {
@@ -27,11 +27,34 @@
       "totalWins": 26
     },
     {
+      "coach": "Julia",
+      "nfl": {
+        "team": "Jacksonville",
+        "wins": 7,
+        "losses": 3,
+        "apiName": "Jacksonville Jaguars"
+      },
+      "ncaa": {
+        "team": "Texas Tech",
+        "wins": 11,
+        "losses": 1,
+        "apiName": "Texas Tech Red Raiders"
+      },
+      "wild": {
+        "team": "Kentucky",
+        "league": "ncaaf",
+        "wins": 7,
+        "losses": 4,
+        "apiName": "Kentucky Wildcats"
+      },
+      "totalWins": 25
+    },
+    {
       "coach": "Kelly Ellis",
       "nfl": {
         "team": "Kansas City",
         "wins": 8,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Kansas City Chiefs"
       },
       "ncaa": {
@@ -50,33 +73,10 @@
       "totalWins": 25
     },
     {
-      "coach": "Julia",
-      "nfl": {
-        "team": "Jacksonville",
-        "wins": 7,
-        "losses": 3,
-        "apiName": "Jacksonville Jaguars"
-      },
-      "ncaa": {
-        "team": "Texas Tech",
-        "wins": 10,
-        "losses": 1,
-        "apiName": "Texas Tech Red Raiders"
-      },
-      "wild": {
-        "team": "Kentucky",
-        "league": "ncaaf",
-        "wins": 7,
-        "losses": 4,
-        "apiName": "Kentucky Wildcats"
-      },
-      "totalWins": 24
-    },
-    {
       "coach": "Kelly Hanik",
       "nfl": {
         "team": "Chicago",
-        "wins": 8,
+        "wins": 9,
         "losses": 2,
         "apiName": "Chicago Bears"
       },
@@ -92,6 +92,29 @@
         "wins": 8,
         "losses": 3,
         "apiName": "Louisville Cardinals"
+      },
+      "totalWins": 24
+    },
+    {
+      "coach": "Alexis",
+      "nfl": {
+        "team": "Buffalo",
+        "wins": 10,
+        "losses": 1,
+        "apiName": "Buffalo Bills"
+      },
+      "ncaa": {
+        "team": "Alabama",
+        "wins": 9,
+        "losses": 2,
+        "apiName": "Alabama Crimson Tide"
+      },
+      "wild": {
+        "team": "Navy",
+        "league": "ncaaf",
+        "wins": 4,
+        "losses": 6,
+        "apiName": "Navy Midshipmen"
       },
       "totalWins": 23
     },
@@ -117,29 +140,6 @@
         "apiName": "Auburn Tigers"
       },
       "totalWins": 23
-    },
-    {
-      "coach": "Alexis",
-      "nfl": {
-        "team": "Buffalo",
-        "wins": 9,
-        "losses": 1,
-        "apiName": "Buffalo Bills"
-      },
-      "ncaa": {
-        "team": "Alabama",
-        "wins": 9,
-        "losses": 2,
-        "apiName": "Alabama Crimson Tide"
-      },
-      "wild": {
-        "team": "Navy",
-        "league": "ncaaf",
-        "wins": 4,
-        "losses": 6,
-        "apiName": "Navy Midshipmen"
-      },
-      "totalWins": 22
     },
     {
       "coach": "Kennedy",
@@ -234,6 +234,29 @@
       "totalWins": 20
     },
     {
+      "coach": "Terry",
+      "nfl": {
+        "team": "Philadelphia",
+        "wins": 4,
+        "losses": 7,
+        "apiName": "Philadelphia Eagles"
+      },
+      "ncaa": {
+        "team": "Oklahoma",
+        "wins": 7,
+        "losses": 4,
+        "apiName": "Oklahoma Sooners"
+      },
+      "wild": {
+        "team": "Boise State",
+        "league": "ncaaf",
+        "wins": 9,
+        "losses": 2,
+        "apiName": "Boise State Broncos"
+      },
+      "totalWins": 20
+    },
+    {
       "coach": "Montse",
       "nfl": {
         "team": "New England",
@@ -276,29 +299,6 @@
         "wins": 3,
         "losses": 8,
         "apiName": "Indianapolis Colts"
-      },
-      "totalWins": 19
-    },
-    {
-      "coach": "Terry",
-      "nfl": {
-        "team": "Philadelphia",
-        "wins": 3,
-        "losses": 7,
-        "apiName": "Philadelphia Eagles"
-      },
-      "ncaa": {
-        "team": "Oklahoma",
-        "wins": 7,
-        "losses": 4,
-        "apiName": "Oklahoma Sooners"
-      },
-      "wild": {
-        "team": "Boise State",
-        "league": "ncaaf",
-        "wins": 9,
-        "losses": 2,
-        "apiName": "Boise State Broncos"
       },
       "totalWins": 19
     },
@@ -428,7 +428,7 @@
       "ncaa": {
         "team": "TCU",
         "wins": 5,
-        "losses": 6,
+        "losses": 7,
         "apiName": "TCU Horned Frogs"
       },
       "wild": {
