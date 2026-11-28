@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "source": "Big Balls Sports Data standings",
-  "updatedAt": "2026-11-27T21:14:24.449Z",
+  "updatedAt": "2026-11-28T07:44:55.639Z",
   "leaderboard": [
     {
       "coach": "Chuck",
@@ -13,7 +13,7 @@
       },
       "ncaa": {
         "team": "Utah",
-        "wins": 11,
+        "wins": 12,
         "losses": 0,
         "apiName": "Utah Utes"
       },
@@ -24,7 +24,7 @@
         "losses": 3,
         "apiName": "Minnesota Vikings"
       },
-      "totalWins": 26
+      "totalWins": 27
     },
     {
       "coach": "Julia",
@@ -96,6 +96,29 @@
       "totalWins": 24
     },
     {
+      "coach": "Kennedy",
+      "nfl": {
+        "team": "Cleveland",
+        "wins": 6,
+        "losses": 4,
+        "apiName": "Cleveland Browns"
+      },
+      "ncaa": {
+        "team": "Texas",
+        "wins": 10,
+        "losses": 2,
+        "apiName": "Texas Longhorns"
+      },
+      "wild": {
+        "team": "Ole Miss",
+        "league": "ncaaf",
+        "wins": 8,
+        "losses": 4,
+        "apiName": "Ole Miss Rebels"
+      },
+      "totalWins": 24
+    },
+    {
       "coach": "Alexis",
       "nfl": {
         "team": "Buffalo",
@@ -119,34 +142,11 @@
       "totalWins": 23
     },
     {
-      "coach": "Kennedy",
-      "nfl": {
-        "team": "Cleveland",
-        "wins": 6,
-        "losses": 4,
-        "apiName": "Cleveland Browns"
-      },
-      "ncaa": {
-        "team": "Texas",
-        "wins": 9,
-        "losses": 2,
-        "apiName": "Texas Longhorns"
-      },
-      "wild": {
-        "team": "Ole Miss",
-        "league": "ncaaf",
-        "wins": 8,
-        "losses": 4,
-        "apiName": "Ole Miss Rebels"
-      },
-      "totalWins": 23
-    },
-    {
       "coach": "Marian",
       "nfl": {
         "team": "Denver",
         "wins": 8,
-        "losses": 2,
+        "losses": 3,
         "apiName": "Denver Broncos"
       },
       "ncaa": {
@@ -234,6 +234,29 @@
       "totalWins": 20
     },
     {
+      "coach": "Ruthie",
+      "nfl": {
+        "team": "Pittsburgh",
+        "wins": 7,
+        "losses": 4,
+        "apiName": "Pittsburgh Steelers"
+      },
+      "ncaa": {
+        "team": "Notre Dame",
+        "wins": 10,
+        "losses": 1,
+        "apiName": "Notre Dame Fighting Irish"
+      },
+      "wild": {
+        "team": "Indianapolis",
+        "league": "nfl",
+        "wins": 3,
+        "losses": 8,
+        "apiName": "Indianapolis Colts"
+      },
+      "totalWins": 20
+    },
+    {
       "coach": "Terry",
       "nfl": {
         "team": "Philadelphia",
@@ -280,29 +303,6 @@
       "totalWins": 19
     },
     {
-      "coach": "Ruthie",
-      "nfl": {
-        "team": "Pittsburgh",
-        "wins": 6,
-        "losses": 4,
-        "apiName": "Pittsburgh Steelers"
-      },
-      "ncaa": {
-        "team": "Notre Dame",
-        "wins": 10,
-        "losses": 1,
-        "apiName": "Notre Dame Fighting Irish"
-      },
-      "wild": {
-        "team": "Indianapolis",
-        "league": "nfl",
-        "wins": 3,
-        "losses": 8,
-        "apiName": "Indianapolis Colts"
-      },
-      "totalWins": 19
-    },
-    {
       "coach": "Andy",
       "nfl": {
         "team": "Houston",
@@ -336,7 +336,7 @@
       "ncaa": {
         "team": "West Virginia",
         "wins": 5,
-        "losses": 6,
+        "losses": 7,
         "apiName": "West Virginia Mountaineers"
       },
       "wild": {
@@ -458,7 +458,7 @@
         "team": "Texas A&M",
         "league": "ncaaf",
         "wins": 4,
-        "losses": 7,
+        "losses": 8,
         "apiName": "Texas A&M Aggies"
       },
       "totalWins": 13
